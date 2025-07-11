@@ -1,3 +1,0 @@
-duplicate files with Dec.goldmines.xlsx data in ramasteeltubes file -
-	Dec.goldmines.xlsx
-	ramasteeltubes.xlsx
